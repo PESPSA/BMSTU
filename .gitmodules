@@ -34,3 +34,15 @@
 [submodule "sem_06/DB_CP"]
 	path = sem_06/DB_CP
 	url = https://github.com/BMSTU-ICS7-Lab-Works/DB_CP.git
+[submodule "sem_03/EB_BMSTU"]
+	path = sem_03/EB_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/EB_BMSTU.git
+[submodule "sem_04/MPDL_BMSTU"]
+	path = sem_04/MPDL_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/MPDL_BMSTU.git
+[submodule "sem_05/AEVM_BMSTU"]
+	path = sem_05/AEVM_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/AEVM_BMSTU.git
+[submodule "sem_06/PPO_BMSTU"]
+	path = sem_06/PPO_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/PPO_BMSTU.git

@@ -1,0 +1,3 @@
+[submodule "sem_02/C_BMSTU"]
+	path = sem_02/C_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/C_BMSTU.git

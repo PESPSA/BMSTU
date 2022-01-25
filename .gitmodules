@@ -22,9 +22,6 @@
 [submodule "sem_05/AA_BMSTU"]
 	path = sem_05/AA_BMSTU
 	url = https://github.com/BMSTU-ICS7-Lab-Works/AA_BMSTU.git
-[submodule "sem_05/FaLP_BMSTU"]
-	path = sem_05/FaLP_BMSTU
-	url = https://github.com/BMSTU-ICS7-Lab-Works/FaLP_BMSTU.git
 [submodule "sem_06/FaLP_BMSTU"]
 	path = sem_06/FaLP_BMSTU
 	url = https://github.com/BMSTU-ICS7-Lab-Works/FaLP_BMSTU.git

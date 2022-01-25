@@ -1,3 +1,39 @@
 [submodule "sem_02/C_BMSTU"]
 	path = sem_02/C_BMSTU
 	url = https://github.com/BMSTU-ICS7-Lab-Works/C_BMSTU.git
+[submodule "sem_03/C_BMSTU"]
+	path = sem_03/C_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/C_BMSTU.git
+[submodule "sem_03/TaDS_BMSTU"]
+	path = sem_03/TaDS_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/TaDS_BMSTU.git
+[submodule "sem_04/CA_BMSTU"]
+	path = sem_04/CA_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/CA_BMSTU.git
+[submodule "sem_04/CG_BMSTU"]
+	path = sem_04/CG_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/CG_BMSTU.git
+[submodule "sem_04/OOP_BMSTU"]
+	path = sem_04/OOP_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/OOP_BMSTU.git
+[submodule "sem_05/CG_CP_CANDLE"]
+	path = sem_05/CG_CP_CANDLE
+	url = https://github.com/BMSTU-ICS7-Lab-Works/CG_CP_CANDLE
+[submodule "sem_05/AA_BMSTU"]
+	path = sem_05/AA_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/AA_BMSTU.git
+[submodule "sem_05/FaLP_BMSTU"]
+	path = sem_05/FaLP_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/FaLP_BMSTU.git
+[submodule "sem_06/FaLP_BMSTU"]
+	path = sem_06/FaLP_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/FaLP_BMSTU.git
+[submodule "sem_06/MS_BMSTU"]
+	path = sem_06/MS_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/MS_BMSTU.git
+[submodule "sem_05/DB_BMSTU"]
+	path = sem_05/DB_BMSTU
+	url = https://github.com/BMSTU-ICS7-Lab-Works/DB_BMSTU.git
+[submodule "sem_06/DB_CP"]
+	path = sem_06/DB_CP
+	url = https://github.com/BMSTU-ICS7-Lab-Works/DB_CP.git
